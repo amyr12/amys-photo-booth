@@ -1,0 +1,1 @@
+# amys-photo-booth
